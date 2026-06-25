@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "L1feStealM.aternos.me",
-    "port": 59295,
+    "ip": "L1feStealM.exaroton.me",
+    "port":31972,
     "version": "1.21.11",
     "try-creative": false
   },
