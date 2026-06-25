@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "24/7 BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "L1feStealM.exaroton.me",
-    "port":31972,
+    "ip": "L1feStealM.aternos.me",
+    "port":59295,
     "version": "1.21.11",
     "try-creative": false
   },
